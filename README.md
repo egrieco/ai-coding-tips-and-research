@@ -9,7 +9,7 @@ I prefer tools that limit the reach of the LLMs used for several reasons:
 - LLMs are probabilistic, hence unreliable. Will it delete all of my stuff? *Probably* not, but you can never be sure.
 - In addition to their probabilistic nature and [Simon Willison’s lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/), most LLM tooling has terrible or zero security hardening or consideration in its design.
 
-Further, I prefer to be able to switch between any arbitrary model at a moment's notice. This can be helpful if a model gets stuck, but is even more important to prevent lock-in with one provider. It also reduces the cost as API calls to LLMs are dramatically cheaper than standard subscriptions. Finally, it eases the transition to running models locally, which should dramatically improve confidentially, security, and cost in the next few years.u
+Further, I prefer to be able to switch between any arbitrary model at a moment's notice. This can be helpful if a model gets stuck, but is even more important to prevent lock-in with one provider. It also reduces the cost as API calls to LLMs are dramatically cheaper than standard subscriptions. Finally, it eases the transition to running models locally, which should dramatically improve confidentially, security, and cost in the next few years.
 
 ### Tools for Basic Questions and Research
 
