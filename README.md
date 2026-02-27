@@ -19,6 +19,13 @@ When asking questions, looking up references/docs, or requesting snippets of exa
 - For Android: [oxproxion](https://github.com/stardomains3/oxproxion) (on [f-droid](https://f-droid.org/en/packages/io.github.stardomains3.oxproxion/))
 : oxproxion is a versatile and user-centric Android chat application designed to interact with various Large Language Models (LLMs). It provides a seamless interface for managing conversations, customizing bot personas, and saving chat histories.
 
+When setting up oxproxion, remember to:
+
+* Set your privacy settings correctly if you want to use free models from OpenRouter.
+* Add credits if you want to use non-free models.
+
+I believe OpenRouter adds a 5.5% fee over model API cost for their service.
+
 ### AI Coding Tools
 
 For having the LLM generate larger amounts of code, asking more difficult questions about existing code, or making changes to an existing codebase, [Aider](https://aider.chat/) ([source](https://github.com/Aider-AI/aider)) is currently my favorite "AI Pair Programming in Your Terminal" type tool.
@@ -40,3 +47,5 @@ That said, here are the tools and techniques I'm keeping an eye on:
 - [Coding Agent VMs on NixOS with microvm.nix by Michael Stapelberg](https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/) has some good guidance on how to isolate agentic systems from the rest of your data and system.
 - [claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [goose](https://github.com/block/goose/): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+I've heard good things about Google Gemini, though in the past I was not impressed with it.
