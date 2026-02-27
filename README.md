@@ -30,7 +30,7 @@ I believe OpenRouter adds a 5.5% fee over model API cost for their service.
 
 For having the LLM generate larger amounts of code, asking more difficult questions about existing code, or making changes to an existing codebase, [Aider](https://aider.chat/) ([source](https://github.com/Aider-AI/aider)) is currently my favorite "AI Pair Programming in Your Terminal" type tool.
 
-There are some good suggestions on how to start with Aider in [Vibe Coding With Aider: Tips And Tricks by  Mitchell A. Gordon](https://mitchgordon.me/tools/2025/02/26/aider.html).
+More info on [Aider setup and usage](aider-setup-and-tips.md).
 
 ### Agentic Coding Tools
 
